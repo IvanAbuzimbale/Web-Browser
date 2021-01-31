@@ -1,0 +1,10 @@
+C:\Users\ivanm\source\repos\WeBrowser\WeBrowser\bin\Debug\WeBrowser.exe.config
+C:\Users\ivanm\source\repos\WeBrowser\WeBrowser\bin\Debug\WeBrowser.exe
+C:\Users\ivanm\source\repos\WeBrowser\WeBrowser\bin\Debug\WeBrowser.pdb
+C:\Users\ivanm\source\repos\WeBrowser\WeBrowser\obj\Debug\WeBrowser.csprojAssemblyReference.cache
+C:\Users\ivanm\source\repos\WeBrowser\WeBrowser\obj\Debug\WeBrowser.Form1.resources
+C:\Users\ivanm\source\repos\WeBrowser\WeBrowser\obj\Debug\WeBrowser.Properties.Resources.resources
+C:\Users\ivanm\source\repos\WeBrowser\WeBrowser\obj\Debug\WeBrowser.csproj.GenerateResource.cache
+C:\Users\ivanm\source\repos\WeBrowser\WeBrowser\obj\Debug\WeBrowser.csproj.CoreCompileInputs.cache
+C:\Users\ivanm\source\repos\WeBrowser\WeBrowser\obj\Debug\WeBrowser.exe
+C:\Users\ivanm\source\repos\WeBrowser\WeBrowser\obj\Debug\WeBrowser.pdb
